@@ -7,7 +7,6 @@ The study highlights the strengths of sequential models like LSTM in capturing c
 
 ** 🎯 Features **
 - **Data Preprocessing**: Tokenization, stopword removal, and lemmatization.
-- **Word Embeddings**: Word2Vec / GloVe for vectorizing text.
 - **Deep Learning Model**: LSTM for sequence-based classification.
 - **Traditional ML Models**: Naive Bayes, SVM, Random Forest.
 - **Evaluation Metrics**: Accuracy, precision, recall, F1-score.
